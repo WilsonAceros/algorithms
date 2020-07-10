@@ -16,7 +16,7 @@ This repository is contribution friendly, If you'd like to add or improve an alg
 I have selected Python as the language to practice algorithms.
 
 ## Supporting the project
-You may support this project via ❤️️ [Patreon] (https://www.patreon.com/yesidays).
+You may support this project via ❤️️ [Patreon](https://www.patreon.com/yesidays).
 
 ## License
 
